@@ -16,6 +16,7 @@ Overview of git commands.
 * `git log --oneline`  - condensed log of commits
 
 
-escape :wq
 
+
+escape :wq
 Ctrl + c - left a quote open,
