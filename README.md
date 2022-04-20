@@ -2,6 +2,8 @@
 
 Overview of git commands.
 
+Creating a conflict 
+
 ### Basic Commands
 * `git init` - intalizes local git repository
 * `git add` - stage files/folders for commit
