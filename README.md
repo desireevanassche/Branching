@@ -1,5 +1,7 @@
 ## Git Cheat Sheet
 
+Overview of git commands.
+
 ### Basic Commands
 * git init - intalizes local git repository
 * git add - stage files/folders for commit
@@ -9,7 +11,7 @@
 
 
 ### Information Commands
-* git status  - status of local working directory 
+* git status  - status of local working directory
 * git log  - gives a log of all commits
 * git log --oneline  - condensed log of commits
 
