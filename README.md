@@ -2,7 +2,7 @@
 
 Overview of git commands.
 
-Creating a conflict 
+Creating a conflict
 
 ### Basic Commands
 * `git init` - intalizes local git repository
@@ -16,8 +16,6 @@ Creating a conflict
 * `git status`  - status of local working directory
 * `git log`  - gives a log of all commits
 * `git log --oneline`  - condensed log of commits
-
-
 
 
 escape :wq
